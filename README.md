@@ -116,3 +116,41 @@ By clarifying requirements visually, wireframes reduce miscommunication and scop
 
 Developers can start coding with confidence, knowing they are aligned with stakeholder expectations.
 
+## Real-World Scenario: Wireframing Revealing Usability Issues
+
+During the design phase of a hotel booking management system, the initial wireframe placed the payment button (“Proceed to Payment”) at the very bottom of the checkout page, below long lists of booking details and optional add-ons.
+
+🔍 Identified Usability Issue
+
+In stakeholder reviews, users testing the wireframe struggled to locate the payment button quickly.
+
+Some assumed the booking process ended at the summary section and missed the final step entirely.
+
+This revealed a critical flaw: poor call-to-action visibility could cause abandoned bookings.
+
+✅ Resolution Through Wireframing
+
+The wireframe was revised to place the “Proceed to Payment” button immediately after the booking summary, with a second button mirrored at the bottom of the page for convenience.
+
+A progress indicator (“Step 3 of 4: Payment”) was also added in the wireframe to guide users through the process.
+
+These changes were made before any code was written, saving time and avoiding costly rework later.
+
+💡 Impact on the Final Product
+
+Usability tests after development showed a significant reduction in drop-offs at the checkout stage.
+
+Customers reported a smoother and clearer booking experience.
+
+The final system aligned better with user expectations and improved overall satisfaction.
+
+🎯 Conclusion
+
+This scenario highlights how wireframing serves as an early warning system for usability issues. By testing and adjusting layouts at the wireframe stage, teams can:
+
+Resolve design flaws before development.
+
+Save time and costs on rework.
+
+Deliver a user-friendly design that enhances customer satisfaction.
+
